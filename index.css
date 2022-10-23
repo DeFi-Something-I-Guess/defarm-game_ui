@@ -1,0 +1,9 @@
+#inventory {
+    position:fixed;
+    width:50%;
+    height:300px;
+    margin-left:-25%;
+    background:#063;
+    bottom:0px;
+    left:50%;
+}
